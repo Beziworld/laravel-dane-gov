@@ -1,0 +1,1 @@
+{"jsonapi": {"version": "1.0"}, "errors": [{"id": "04f5f014-7fea-4a9b-b68b-d6a4e775acf1", "status": "422 Unprocessable Entity", "code": "422_unprocessable_entity", "title": "B\u0142\u0105d pola", "detail": "Niepoprawny rozmiar strony.", "source": {"pointer": "/per_page"}}]}

@@ -1,0 +1,1 @@
+{"jsonapi": {"version": "1.4"}, "errors": [{"id": "3dc53cad-e238-4ca6-8c50-233baa63da03", "status": "404 Not Found", "code": "404_not_found", "title": "404 Not Found", "detail": "The requested resource could not be found"}]}

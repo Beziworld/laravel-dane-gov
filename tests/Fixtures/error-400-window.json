@@ -1,0 +1,1 @@
+{"jsonapi": {"version": "1.4"}, "errors": [{"id": "c11d7e8c-e021-43cf-b3ae-ad764236e1e0", "status": "400 Bad Request", "code": "400_bad_request", "title": "400 Bad Request", "detail": "all shards failed"}]}
